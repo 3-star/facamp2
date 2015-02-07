@@ -1,0 +1,11 @@
+.container{
+	max-width:960px;
+	background:silver;
+	margin:0 auto 0 auto;
+	list-style:;
+}
+/*id는 #container class는 .container*/
+
+.header>h1{
+	
+}
