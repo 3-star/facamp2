@@ -1,11 +1,9 @@
+@charset "utf-8";
 .container{
 	max-width:960px;
 	background:silver;
-	margin:0 auto 0 auto;
-	list-style:;
+	margin:0 auto;
 }
 /*id는 #container class는 .container*/
 
-.header>h1{
-	
-}
+
